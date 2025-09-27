@@ -9,7 +9,7 @@
 
   <!-- Badges showcasing your skills -->
   <p>
-    <a href="[Link to your portfolio or blog (optional)]">
+    <a href="https://www.linkedin.com/pulse/librarify-spotify-books-austine-oduor/">
       <img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/austine-oduor-ngonga">
@@ -37,30 +37,38 @@
 
 <!-- A concise and compelling introduction about yourself -->
 
-I'm a passionate Backend Software Developer currently honing my skills through the ALX Prodev program. My primary focus is on building robust and scalable backend systems. I'm driven by the challenge of transforming complex ideas into functional, user-friendly software.  The most rewarding aspect of development, for me, is seeing a project come to life and knowing it's providing value.
+I'm a passionate Backend Software Developer, Currently open to jobs and open source projects that might arise, My primary focus is on building robust and scalable backend systems. I'm driven by the challenge of transforming complex ideas into functional, user-friendly software.  The most rewarding aspect of development, for me, is seeing a project come to life and knowing it's provides value.
 
-I am particularly interested in contributing to **learning platforms**.  I believe technology can democratize education, and I want to be part of building tools that empower learners around the world.  My experience in C/C++, Python, Django, Flask, API design is helping me work towards this goal.
+I am particularly interested in contributing to **Web Design Technologies**, **Embedded System Design**, **Video Game Development with Unrealengine**.  I believe technology can democratize education, and I want to be part of building tools that empower learners around the world.  My experience in C/C++, Python, Django, Flask, API and Database design, is helping me work towards this goal.
 
 ## 🛠️ Skills
 
 <!-- A structured list of your technical skills -->
 
 *   **Languages:** Python, JavaScript,HTML, CSS, C/C++
-*   **Frameworks/Libraries:** Django,Flask, Node.js,
-*   **Databases:** PostgreSQL, MySQL, MongoDB
-*   **Tools:** Git, Docker, AWS,CI/CD tools
+*   **Frameworks/Libraries:** Django, Flask, Node.js,
+*   **Databases:** PostgreSQL, MySQL, Redis, MongoDB
+*   **Tools:** Git, Kubernetes, AWS, CI/CD (e.g Jenkins) tools
 *   **Concepts:** RESTful APIs, Object-Oriented Programming (OOP), Data Structures & Algorithms
 
 ## 💡 Projects
 
-<!-- Showcase your best projects with descriptions and links -->
+<!-- Showcase best projects with descriptions and links -->
+### Movie Recommedation System
+
+*   **Description:**  IT's API that based on the movies that you search it recommends similar genre movie which are newly released.
+*   **Tech Stack:** Python(Django), PostgreSQL,Redis, DjangoRestfulAPI, Swagger for documentation and postman for testing
+*   **Link:** (https://github.com/austineoduor/alx-project-nexus/)
+*   **Why it's important:** This project demonstrates my ability to design APIs, intergrate Authenticatin and authorization, and manage complex database interactions i.e JOINS, DATA AGGREGATION and PAGINATION
+
+<!-- Consider adding images or GIFs of your projects -->
 
 ### EDU_MASHINANI
 
 *   **Description:** Learning platform for Basic programing language c/c++, Basic electronics,Introduction to graphic design and game development.
 *   **Tech Stack:** Python(Django), MYSQL, RestfulAPI
 *   **Link:** (https://github.com/austineoduor/EDU_MASHINANI.git)
-*   **Why it's important:** This project demonstrates my ability todesign RESTful APIs, implement user authentication, manage database interactions
+*   **Why it's important:** This project demonstrates my ability to design RESTful APIs, use HTML & CSS  implement user authentication, manage database interactions
 
 <!-- Consider adding images or GIFs of your projects -->
 
