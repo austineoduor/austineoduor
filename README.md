@@ -68,7 +68,7 @@ I am particularly interested in contributing to **Web Design Technologies**, **E
 
 *   **Description:** Learning platform for Basic programing language c/c++, Basic electronics,Introduction to graphic design and game development.
 *   **Tech Stack:** Python(Django), MYSQL, RestfulAPI
-*   **Link:** (https://github.com/austineoduor/EDU_MASHINANI.git)
+*   **Link:** (https://edu-mashinani.onrender.com/)
 *   **Why it's important:** This project demonstrates my ability to design RESTful APIs, use HTML & CSS  implement user authentication, manage database interactions
 
 <!-- Consider adding images or GIFs of your projects -->
